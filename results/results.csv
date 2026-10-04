@@ -1,0 +1,5 @@
+policy,before_faults,after_faults,total_faults,before_hit_rate,after_hit_rate,overall_hit_rate
+FIFO,306,303,609,0.388,0.394,0.391
+LRU,295,301,596,0.41,0.398,0.404
+Optimal,179,242,421,0.642,0.516,0.579
+Learned,260,306,566,0.48,0.388,0.434
